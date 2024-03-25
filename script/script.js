@@ -15,7 +15,7 @@ if (navClose) {
 }
 // resume
 function showResume(){
-    window.open('https://drive.google.com/file/d/1WfNnASXbcnEiYXQX07djSKHqyh9-50V2/view?usp=sharing');
+    window.open('https://drive.google.com/file/d/1XPn_Mpz8li4B7V_RxX_86x0HQ84uONpY/view?usp=sharing');
 }
 
 
